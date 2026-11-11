@@ -36,3 +36,19 @@ venv/
 # Temporary files
 *.tmp
 *.bak
+/.metadata/
+# IDE metadata
+**/.metadata/
+
+# Generated test reports
+/reports/
+
+# Build outputs
+**/target/
+**/node_modules/
+**/dist/
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
